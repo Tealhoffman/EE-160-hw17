@@ -1,0 +1,34 @@
+
+The Program:
+
+uhx02:/home/t/tealhoff% gcc -o hw17 hw17main.c circle.c
+uhx02:/home/t/tealhoff% ./hw17
+Please enter the radius in cm: 3
+------------------------------------
+ For a radius of 3.00
+The area would be 28.26
+The circumference would be 18.84
+
+
+uhx02:/home/t/tealhoff% ./hw17
+Please enter the radius in cm: 1
+------------------------------------
+ For a radius of 1.00
+The area would be 3.14
+The circumference would be 6.28
+
+
+uhx02:/home/t/tealhoff% ./hw17
+Please enter the radius in cm: 2
+------------------------------------
+ For a radius of 2.00
+The area would be 12.56
+The circumference would be 12.56
+
+
+uhx02:/home/t/tealhoff% ./hw17
+Please enter the radius in cm: 12.134591
+------------------------------------
+ For a radius of 12.13
+The area would be 462.36
+The circumference would be 76.21
